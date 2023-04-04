@@ -1,4 +1,10 @@
+import telebot
+import requests
 
+# Enter your bot token here
+TOKEN = ''
+bot = telebot.TeleBot(TOKEN)
+city = ''
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
