@@ -5,6 +5,7 @@
 <div id="badges" align="center">
 <h1>
  Hello there
+
   <img src="https://media.tenor.com/znmQl_Of2AAAAAAi/pepe-jedi-pablojedi.gif" width="50px"/>
 </h1>
 </div>
